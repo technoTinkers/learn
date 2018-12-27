@@ -25,7 +25,7 @@ site_author: 'Bob'
 site_url: 'TechnoTinkers.org/learn/'
 
 # Repository
-repo_name: 'Microbit'
+repo_name: 'learn'
 repo_url: 'https://github.com/technoTinkers/learn'
 
 # Copyright
@@ -36,7 +36,7 @@ theme_dir: material
 
 # Icon
 #site_favicon: 'docs/images/favicon.ico'
-site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
+#site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
 
 # Configuration
 theme:
