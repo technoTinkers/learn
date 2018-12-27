@@ -23,7 +23,7 @@ Basic:kit Manual Book|1
 
 ## Documents
 ---
-- [basic:bit introduce](/basic_bit/)
+- [basic:bit introduce](/docs/basic_bit/)
 - [Case 01](/basic_kit_case_01/)  
 - [Case 03](/basic_kit_case_02/)  
 - [Case 04](/basic_kit_case_03/)  
