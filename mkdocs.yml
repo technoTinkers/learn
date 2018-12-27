@@ -19,17 +19,17 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: 'ElecFreaks Learn-en'
-site_description: 'ElecFreaks Product Document'
-site_author: 'Will'
-site_url: 'https://www.elecfreaks.com/learn-en/'
+site_name: 'TechnoTinkers'
+site_description: 'TechnoTinkers Documentation'
+site_author: 'Bob'
+site_url: 'TechnoTinkers.org/learn/'
 
 # Repository
 repo_name: 'Microbit'
-repo_url: 'https://github.com/elecfreaks/learn-en'
+repo_url: 'https://github.com/technoTinkers/learn'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2018 ElecFreaks'
+copyright: 'Copyright &copy; 2018 - 2019 TechnoTinkers'
 
 # Theme directory
 theme_dir: material
@@ -58,9 +58,9 @@ theme:
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/elecfreaks/learn-en'
-    - type: 'facebook'
-      link: 'https://www.facebook.com/ElecFreaksTech/'
+      link: 'https://github.com/technoTinkers/learn'
+  #  - type: 'facebook'
+   #   link: 'https://www.facebook.com/ElecFreaksTech/'
     #- type: 'linkedin'
     #  link: 'https://linkedin.com/in/squidfunk'
 
@@ -90,7 +90,7 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - ElecFreaks Learn: 'index.md'
+  - TechoTinkers Learn: 'index.md'
   - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
     - micro:bit Funny Classroom Series:
