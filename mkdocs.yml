@@ -60,9 +60,7 @@ extra:
     - type: 'github'
       link: 'https://github.com/technoTinkers/learn'
   #  - type: 'facebook'
-   #   link: 'https://www.facebook.com/ElecFreaksTech/'
-    #- type: 'linkedin'
-    #  link: 'https://linkedin.com/in/squidfunk'
+   #   link: 'https://www.facebook.com/technoTinkers/'
 
 
 # Extensions
