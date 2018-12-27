@@ -24,9 +24,9 @@ Basic:kit Manual Book|1
 ## Documents
 ---
 - [basic:bit introduce](/docs/basic_bit.md/)
-- [Case 01](/basic_kit_case_01/)  
-- [Case 03](/basic_kit_case_02/)  
-- [Case 04](/basic_kit_case_03/)  
+- [Case 01](/docs/basic_kit_case_01.md/)  
+- [Case 03](/docs//basic_kit_case_02.md/)  
+- [Case 04](/docs/basic_kit_case_03.md/)  
 
 
 ## FAQ
