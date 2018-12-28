@@ -22,7 +22,7 @@
 site_name: 'TechnoTinkers'
 site_description: 'TechnoTinkers Documentation'
 site_author: 'Bob'
-site_url: 'TechnoTinkers.org/learn/'
+site_url: 'https://github.com/technoTinkers/learn'
 
 # Repository
 repo_name: 'Microbit'
@@ -35,12 +35,11 @@ copyright: 'Copyright &copy; 2018 - 2019 TechnoTinkers'
 theme_dir: material
 
 # Icon
-#site_favicon: 'docs/images/favicon.ico'
-site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
+site_favicon: 'docs/images/favicon.ico'
 
 # Configuration
 theme:
-  name: 'material'
+  name: 'readthedocs'
   feature:
     tabs: false
   palette:
@@ -68,36 +67,20 @@ extra:
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
-  - markdown.extensions.codehilite(guess_lang=false)
   - markdown.extensions.def_list
   - markdown.extensions.footnotes
   - markdown.extensions.meta
-  - markdown.extensions.toc(permalink=true)
-  - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
-  - pymdownx.tilde
-  - pymdownx.keys
 
 # Page tree
 pages:
   - TechoTinkers Learn: 'index.md'
   - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
-    - micro:bit Funny Classroom Series:
+    - micro:bit Fun Classroom Projects:
       - Flashing Heart: classroom_case_01.md
       - Smiley Buttons: classroom_case_02.md
       - Love Meter: classroom_case_03.md
-      - Rock Papaer Scissors: classroom_case_04.md
+      - Rock Paper Scissors: classroom_case_04.md
       - Magic Button Trick: classroom_case_05.md
       - Coin Flipper: classroom_case_06.md
       - Salute: classroom_case_07.md
@@ -299,9 +282,3 @@ pages:
     - 3V vertical water pump: 3V_vertical_water_pump.md
     - christmas tree rainbow led: christmas_tree_rainbow_led.md
     - snowflake buzzer: snowflake_buzzer.md      
-
-
-# Google Analytics
-#google_analytics:
-#  - 'UA-XXXXXXXX-X'
-#  - 'auto'
