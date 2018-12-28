@@ -35,7 +35,7 @@ copyright: 'Copyright &copy; 2018 - 2019 TechnoTinkers'
 theme_dir: material
 
 # Icon
-site_favicon: 'docs/images/favicon.JPG'
+site_favicon: 'docs/images/favicon.ico'
 
 # Configuration
 theme:
@@ -48,7 +48,7 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  logo: 'images/favicon.JPG'
+  logo: 'images/favicon.ico'
   search:
     language: 'en'
     tokenizer: '[\s\-\.]+'
