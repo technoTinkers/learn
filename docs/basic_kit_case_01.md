@@ -5,8 +5,7 @@
 
 ## Material
 ---
-- 1 x [basic kit](https://www.elecfreaks.com/estore/microbit-basic-kit-without-micro-bit-board.html)
-
+- 1 x basic kit 
 
 ## Background Knowledge
 ---

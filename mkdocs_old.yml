@@ -21,11 +21,16 @@
 # Project information
 site_name: 'TechnoTinkers'
 site_description: 'TechnoTinkers Documentation'
+<<<<<<< HEAD
 site_author: 'Bob'
 site_url: 'https://github.com/technoTinkers/learn'
+=======
+site_author: 'technoTinkers'
+site_url: 'TechnoTinkers.org/learn/'
+>>>>>>> 426f9033efda18f0e78f8466f209a33004495f32
 
 # Repository
-repo_name: 'Microbit'
+repo_name: 'learn'
 repo_url: 'https://github.com/technoTinkers/learn'
 
 # Copyright
@@ -35,7 +40,12 @@ copyright: 'Copyright &copy; 2018 - 2019 TechnoTinkers'
 theme_dir: material
 
 # Icon
+<<<<<<< HEAD
 site_favicon: 'docs/images/favicon.ico'
+=======
+#site_favicon: 'docs/images/favicon.ico'
+#site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
+>>>>>>> 426f9033efda18f0e78f8466f209a33004495f32
 
 # Configuration
 theme:
@@ -59,9 +69,7 @@ extra:
     - type: 'github'
       link: 'https://github.com/technoTinkers/learn'
   #  - type: 'facebook'
-   #   link: 'https://www.facebook.com/ElecFreaksTech/'
-    #- type: 'linkedin'
-    #  link: 'https://linkedin.com/in/squidfunk'
+   #   link: 'https://www.facebook.com/technoTinkers/'
 
 
 # Extensions

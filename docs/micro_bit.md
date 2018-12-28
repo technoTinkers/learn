@@ -136,4 +136,3 @@ The micro:bit apps let you send code to your micro:bit wirelessly using Bluetoot
 
 ![](https://i.imgur.com/x1cCW5v.png)
 
-If you want to buy it, just click: [elecfreaks](https://www.elecfreaks.com/estore/).

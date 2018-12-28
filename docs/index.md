@@ -1,2 +1,2 @@
-# Welcome to micro:bit WIKI
+# Welcome to TechnoTinkere's micro:bit WIKI
 
