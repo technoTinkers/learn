@@ -25,7 +25,7 @@ site_author: 'Bob'
 site_url: 'https://github.com/technoTinkers/learn'
 
 # Repository
-repo_name: 'Microbit'
+repo_name: 'learn'
 repo_url: 'https://github.com/technoTinkers/learn'
 
 # Copyright
@@ -66,10 +66,10 @@ extra:
 
 # Extensions
 markdown_extensions:
-  - markdown.extensions.admonition
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
+ # - markdown.extensions.admonition
+ # - markdown.extensions.def_list
+ # - markdown.extensions.footnotes
+ # - markdown.extensions.meta
 
 # Page tree
 pages:
